@@ -1,0 +1,5 @@
+git branch elmeudesenvolupament
+git checkout elmeudesenvolupament
+git add .
+git commit -m "..."
+git push -u origin elmeudesenvolupament
